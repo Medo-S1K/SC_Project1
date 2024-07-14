@@ -1,1 +1,1 @@
-# SC_Project1
+# Software Construction Project : Sneak Game 
